@@ -10,4 +10,4 @@ def main : IO Unit := do
   IO.print (f inp.toList)
   return ()
 
-#eval main
+-- #eval main
